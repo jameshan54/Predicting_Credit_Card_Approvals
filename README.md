@@ -5,6 +5,6 @@
 3. Were able to improve the model's ability to predict credit card approvals by performing a **grid search**.
 
 This is the extension of the projects from Data Camp: https://projects.datacamp.com/projects/558  
-Also, the dataset is from UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/credit+approval
+Also, the dataset is obtained from UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/credit+approval.
 
 
